@@ -14,6 +14,5 @@ The code for the app are present in files:
 
 The app can be accessed at [Here](https://srivi11.shinyapps.io/DataProducts)
 
-The Presentation is available at : 
+The Presentation is available at : [Here](http://devi11.github.io/Data-Product-Presentation/presentaion.html)
 
-The Rpubs repo:
